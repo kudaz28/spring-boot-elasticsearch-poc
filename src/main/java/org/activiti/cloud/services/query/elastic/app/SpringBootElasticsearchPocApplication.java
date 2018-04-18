@@ -1,4 +1,4 @@
-package org.masterwill.elasticsearch.com.springbootelasticsearchpoc;
+package org.activiti.cloud.services.query.elastic.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
